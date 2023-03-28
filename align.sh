@@ -9,12 +9,12 @@ s=/fs/ess/PCON0160/ben/pipelines/nextflow_smRNA/workflows/smRNA/run.sh
 
 # parameters
 profile='cluster'
-design='/fs/ess/PAS1473/znfx1_CSRIP_WAGO9IP/design.txt'
-results='/fs/ess/PAS1473/znfx1_CSRIP_WAGO9IP/metagene_alignment'
+design='/fs/ess/PAS1473/germano_CSR1_adh/germano_design_csrIP.txt'
+results='/fs/ess/PAS1473/germano_CSR1_adh/metagene_alignment'
 features=false
 contaminant='/fs/ess/PCON0160/ben/genomes/c_elegans/WS279/c_elegans.PRJNA13758.WS279.xk.fa'
 tailor=false
-transcripts='/fs/ess/PCON0160/ben/pipelines/nextflow_metagene/transcripts.txt'
+transcripts='/fs/ess/PCON0160/ben/pipelines/metagene_analysis/transcripts.txt'
 genome='/fs/ess/PCON0160/ben/genomes/c_elegans/WS279/c_elegans.PRJNA13758.WS279.genomic.fa'
 junctions='/fs/ess/PCON0160/ben/genomes/c_elegans/WS279/c_elegans.PRJNA13758.WS279.genomic.transcripts.juncs.fa'
 dge=false
