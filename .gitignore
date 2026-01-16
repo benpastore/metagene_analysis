@@ -5,3 +5,5 @@ results*
 *.nextflow
 *nextflow.log*
 *.ipynb_checkpoints*
+human_tRNA_metagene*
+bed*
